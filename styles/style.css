@@ -1,0 +1,26 @@
+body {
+  font-family: Helvetica;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+#title1 {
+  font-size: 38px;
+  color: red;
+}
+
+#title2 {
+  font-size: 28px;
+  color: blue;
+}
+
+#fileSelect {
+  font-size: 24px;
+  color: yellow;
+}
+
+#error {
+  font-size: 38px;
+  color: purple;
+}
